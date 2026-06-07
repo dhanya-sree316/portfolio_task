@@ -1,0 +1,11 @@
+{
+  "name": "student-portfolio-hub",
+  "version": "1.0.0",
+  "description": "Student Portfolio Website",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "mysql2": "^3.11.0"
+  }
+}
