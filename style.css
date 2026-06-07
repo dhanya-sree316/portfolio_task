@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    background:#fafafa;
+    font-family:Calibri,sans-serif;
+}
+
+.main{
+    width:85%;
+    margin:auto;
+    padding:25px;
+}
+
+h1{
+    text-align:center;
+    color:#8e44ad;
+}
+
+section{
+    background:white;
+    margin-top:15px;
+    padding:15px;
+    box-shadow:0 0 5px rgba(0,0,0,0.1);
+}
+
+.project-box{
+    padding:12px;
+    margin-top:10px;
+    border-bottom:1px solid #ddd;
+}
